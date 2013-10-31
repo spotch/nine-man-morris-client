@@ -1,0 +1,17 @@
+{
+  "name" : "nine-man-morris-client",
+  "version" : "0.0.1-SNAPSHOT",
+
+  "author" : "Adam Schneider",
+  "description" : "Ember client to play Nine Man Morris",
+  "repository" : "https://github.com/spotch/nine-man-morris-client.git",
+  "engines" : {
+	"node" : ">= 0.10.21"
+  },
+  
+  "dependencies" : {},
+  
+  "devDependencies" : {
+    "grunt-cli" : ""
+  }
+}
